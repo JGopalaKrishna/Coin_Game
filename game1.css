@@ -10,7 +10,7 @@ body{
 .GameArea{  
     height: 0; 
     width: 0;
-    background-color: #ee0909;
+    background-color: transparent;
     border-radius: 10px;
     box-shadow: 0 0 5px rgb(2, 177, 5);
     overflow: hidden;
