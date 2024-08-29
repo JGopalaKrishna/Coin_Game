@@ -108,6 +108,7 @@ label{
     justify-content: center;
     align-items: center;
     transition: all .5s;
+    cursor: pointer;
 }
 .b1:hover{
     transform: scale(1.05);
